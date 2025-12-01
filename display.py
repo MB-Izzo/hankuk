@@ -1,5 +1,16 @@
+from typing import final
 from translation import Translation
-from colors import Colors
+
+@final
+class Colors:
+    HEADER = "\033[95m"
+    BLUE = "\033[94m"
+    CYAN = "\033[96m"
+    GREEN = "\033[92m"
+    YELLOW = "\033[93m"
+    RED = "\033[91m"
+    BOLD = "\033[1m"
+    END = "\033[0m"
 
 def display_data(data: Translation) -> None:
     print(f"{Colors.BOLD}{Colors.HEADER}{'━' * 60}{Colors.END}")
