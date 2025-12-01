@@ -11,7 +11,8 @@ python main.py <korean_word>
 Output:
 ```
 📝 Explication :
-Désigne l'action de réunir plusieurs éléments distincts ou divers pour en faire un tout cohérent, ou de les inclure dans un ensemble plus vaste. Implique souvent une notion d'intégration ou de synthèse.
+Désigne l'action de réunir plusieurs éléments distincts ou divers pour en faire un tout cohérent,
+ou de les inclure dans un ensemble plus vaste. Implique souvent une notion d'intégration ou de synthèse.
 
 🔧 Formes grammaticales :
   🟡 Forme passive : Aucune
